@@ -26,7 +26,9 @@
 
 ### Features
 - Animation
+  
   Smooth hover animation, different colors
+  
 - Welcome pop up
 - Choice of number of rounds
   You can control duration of the game by choosing max score. Who first get 3, 6 or 9 score – is the winner!
