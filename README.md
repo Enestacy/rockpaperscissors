@@ -9,11 +9,9 @@
 2. Click 'Start' button.
 3. Choose between Rock, Paper or Scissors by clicking in the icon.
 4. Remember:
-
-  *Rock beats Scissors.
-  *Scissors beats Paper.
-  *Paper beats Rock.
-  
+   *Rock beats Scissors.
+   *Scissors beats Paper.
+   *Paper beats Rock. 
 5. First player to win choosen number of rounds is the winner. To go to the next round use 'Try again' button
 6. Play again! Just click button 'Start over'
 7. Enjoy
