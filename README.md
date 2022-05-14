@@ -3,7 +3,7 @@
 
 ## Additional description
 
-## Instrucions to Play
+### Instrucions to Play
 
 1. Chose one of the options in pop up
 2. Click 'Start' button.
