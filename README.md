@@ -37,4 +37,5 @@
 ## Live Demo
 
 [Live Demo Link](https://enestacy.github.io/rockpaperscissors/) :point_left:
+
 Follow the live demo to play right now. 
