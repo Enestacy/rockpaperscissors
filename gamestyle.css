@@ -126,7 +126,7 @@ h2 {
   fill: #7d7aff;
   stroke: #7d7aff;
 }
-button {
+#again {
   background: #7d7aff;
   border-radius: 15px;
   color: white;
@@ -162,7 +162,8 @@ button {
   color: white;
   padding: 20px 40px;
   display: flex;
-  margin: 50px 32%;
+  text-align: center;
+  margin: 50px auto;
 }
 
 button:hover {
